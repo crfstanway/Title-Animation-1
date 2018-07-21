@@ -1,0 +1,39 @@
+.title-container {
+  width: 50%;
+  height: 50px;
+  margin: 0 auto;
+  /* background-color: #ccc;
+  /* border: 1px solid #555; */ 
+  border-radius: 15px;
+  position: relative;
+}
+.let-con {
+  display: inline-block;
+  margin: 10px 7%;
+  border-radius: 5px;
+}
+#title-1 {
+  transition: 0.4s all ease;
+}
+#title-2 {
+  transition: 0.4s all ease;
+}
+#title-3 {
+  transition: 0.4s all ease;
+}
+#title-4 {
+  transition: 0.4s all ease;
+}
+#title-5 {
+  transition: 0.4s all ease;
+}
+.letter {
+  margin: 0;
+  padding: 0;
+  width: 0.8em;
+  text-align: center;
+}
+.back-col {
+  background-color: red;
+  transform: scale(1.5);
+}
